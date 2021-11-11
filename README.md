@@ -1,2 +1,2 @@
 # mytest
-only a test
+only a test.
